@@ -25,6 +25,14 @@ The application accepts the following hardware parameters to calculate accurate 
 2. View the real-time predicted price dynamically updated in the main panel.
 3. Use the insights to compare how different hardware upgrades impact overall cost.
 
+## 📊 Model Performance & Evaluation
+
+The predictive model was optimized using **GridSearchCV** for hyperparameter tuning to ensure high accuracy. The final tuned model achieved the following performance metrics on the test dataset:
+
+* **R² Score:** 0.90 *(Indicates that the model explains approximately 90% of the variance in laptop prices)*
+* **Mean Absolute Error (MAE):** 0.15
+* **Root Mean Squared Error (RMSE):** 0.21
+
    ## 📊 Dashboard Preview
 > Interactive Power BI recruitment dashboard showcasing XGBoost price predictions ($R^2$: 0.94), RAM price trends and many more.........
 
