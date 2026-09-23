@@ -16,7 +16,7 @@ A machine learning-powered web application built with Streamlit and XGBoost that
 
    ## 💻 Project Preview
 
-![Streamlit App Dashboard](images/your_app_screenshot.png)
+![Streamlit App Dashboard](images/laptop_price_predictor_app.png)
 
 ---
 
