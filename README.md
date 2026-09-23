@@ -17,4 +17,4 @@ A machine learning-powered web application built with Streamlit and XGBoost that
    ## 📊 Dashboard Preview
 > Interactive Power BI recruitment dashboard showcasing XGBoost price predictions ($R^2$: 0.94) and RAM price trends.
 
-![Power BI Recruitment Dashboard](assets/your_snapshot_name.png)
+![Power BI Recruitment Dashboard](images/laptop_dashboard_image.png)
