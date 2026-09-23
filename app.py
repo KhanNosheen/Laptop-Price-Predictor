@@ -26,6 +26,21 @@ df_cleaned = load_data()
 # Load model ONCE when the app starts up
 model = joblib.load("laptop_price_predict_model.pkl")
 
+# --- Sidebar Model Performance Section ---
+st.sidebar.markdown(
+    '<h2 style="color: #38bdf8; font-size: 1.3rem;">📊 Model Performance</h2>',
+    unsafe_allow_html=True,
+)
+st.sidebar.markdown(
+    '<p style="color: #94a3b8; font-size: 0.85rem;">Evaluated on GridSearchCV'
+    " tuned pipeline</p>",
+    unsafe_allow_html=True,
+)
+st.sidebar.metric(label="R² Score", value="0.90")
+st.sidebar.metric(label="Mean Absolute Error (MAE)", value="0.15")
+st.sidebar.metric(label="Root Mean Squared Error (RMSE)", value="0.21")
+st.sidebar.markdown("---")
+
 # Centered Title and Subtitle with Inline Styles
 st.markdown(
     '<h1 style="text-align: center; color: #38bdf8; font-size:'
