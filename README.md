@@ -38,6 +38,6 @@ The application accepts the following hardware parameters to calculate accurate 
 3. Use the insights to compare how different hardware upgrades impact overall cost.
 
    ## 📊 Dashboard Preview
-> Interactive Power BI recruitment dashboard showcasing XGBoost price predictions ($R^2$: 0.94) and RAM price trends.
+> Interactive Power BI recruitment dashboard showcasing XGBoost price predictions ($R^2$: 0.94), RAM price trends and many more.........
 
 ![Power BI Recruitment Dashboard](images/laptop_dashboard_image.png)
