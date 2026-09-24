@@ -3,10 +3,10 @@ A machine learning-powered web application built with Streamlit and XGBoost that
 
 
    ## 💻 Project Preview
-[![App Preview](images/laptop_price_predictor_app.png)]([https://your-app-url.streamlit.app](https://laptop-price-predictor-9pokknz4ozuufzg5pqcssc.streamlit.app/))
+[![App Preview](images/laptop_price_predictor_app.png)](https://laptop-price-predictor-9pokknz4ozuufzg5pqcssc.streamlit.app/)
 
-[🔗 Click here to view the live Streamlit App]([https://your-app-url.streamlit.app](https://laptop-price-predictor-9pokknz4ozuufzg5pqcssc.streamlit.app/))
-![Streamlit App Dashboard](images/laptop_price_predictor_app.png)
+[🔗 Click here to view the live Streamlit App](https://laptop-price-predictor-9pokknz4ozuufzg5pqcssc.streamlit.app/)
+
 
 ---
 
