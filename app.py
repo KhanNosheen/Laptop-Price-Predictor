@@ -41,6 +41,16 @@ st.sidebar.metric(label="Mean Absolute Error (MAE)", value="0.15")
 st.sidebar.metric(label="Root Mean Squared Error (RMSE)", value="0.21")
 st.sidebar.markdown("---")
 
+# Project Summary
+st.sidebar.markdown("---")
+st.sidebar.subheader("About Project")
+st.sidebar.markdown(
+    "An interactive machine learning web application built to estimate "
+    "laptop market values in real-time based on hardware specifications "
+    "like RAM, CPU, GPU, and storage. Designed for accurate price prediction "
+    "using a tuned regression pipeline."
+)
+
 # Centered Title and Subtitle with Inline Styles
 st.markdown(
     '<h1 style="text-align: center; color: #38bdf8; font-size:'
