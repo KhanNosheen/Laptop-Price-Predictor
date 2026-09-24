@@ -46,8 +46,11 @@ st.sidebar.subheader("About Project")
 st.sidebar.markdown(
     "An interactive machine learning web application built to estimate "
     "laptop market values in real-time based on hardware specifications "
-    "like RAM, CPU, GPU, and storage. Designed for accurate price prediction "
-    "using a tuned regression pipeline."
+    "like RAM, CPU, GPU, and storage. \n\n"
+    "The underlying prediction engine utilizes a robust regression model "
+    "optimized and fine-tuned using **GridSearchCV** across a structured "
+    "machine learning pipeline to achieve high predictive accuracy and "
+    "minimize error."
 )
 
 # Centered Title and Subtitle with Inline Styles
