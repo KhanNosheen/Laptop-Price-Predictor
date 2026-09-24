@@ -43,7 +43,6 @@ st.sidebar.markdown("---")
 
 # Project Summary
 st.sidebar.subheader("About Project")
-st.sidebar.markdown("---")
 st.sidebar.markdown(
     "An interactive machine learning web application built to estimate "
     "laptop market values in real-time based on hardware specifications "
